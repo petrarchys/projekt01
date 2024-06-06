@@ -6,3 +6,5 @@ slovnik = {"one": 1}
 
 print('Ahoj světe')
 print('Provedli jsme změny')
+
+print('Projekt01')
